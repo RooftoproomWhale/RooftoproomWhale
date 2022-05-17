@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 
 ### Tool
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RooftoproomWhale&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![RooftoproomWhale's github stats](https://github-readme-stats.vercel.app/api?username=RooftoproomWhale&show_icons=true)
+[![RooftoproomWhale's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RooftoproomWhale&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RooftoproomWhale)
