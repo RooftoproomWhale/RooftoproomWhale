@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RooftoproomWhale&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![RooftoproomWhale's github stats](https://github-readme-stats.vercel.app/api?username=RooftoproomWhale&show_icons=true)
+![RooftoproomWhale's github stats](https://github-readme-stats.vercel.app/api?username=RooftoproomWhale&show_icons=true)
 [![RooftoproomWhale's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RooftoproomWhale&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/RooftoproomWhale)
